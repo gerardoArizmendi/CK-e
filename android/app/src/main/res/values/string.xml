@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Bike</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">1066928867040852</string> <string name="fb_login_protocol_scheme">fb1066928867040852</string>
+
+
+</resources>

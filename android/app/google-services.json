@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583373892018",
+    "firebase_url": "https://bickla.firebaseio.com",
+    "project_id": "bickla",
+    "storage_bucket": "bickla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583373892018:android:a778f90ee16ecf79bbdcab",
+        "android_client_info": {
+          "package_name": "com.example.blue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583373892018-1jivapcgn93gps7s30mgaruo7llcg81c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQ-YQj_XPThkiyhjg6RU-RnRDGsf-Skk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583373892018-1jivapcgn93gps7s30mgaruo7llcg81c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583373892018-77lmpqldectg9q700ooe6skf4mn1jqls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
